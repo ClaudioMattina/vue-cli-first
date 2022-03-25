@@ -1,6 +1,5 @@
 # vue-cli-first
 
-
 ## Project setup
 ```
 npm install
